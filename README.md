@@ -5,7 +5,7 @@ Hosting the installer of the backdoorBash's project
 
 ## Introduction
 
-This project is associated to the others mine : 
+This project is associated to another mine : 
 - https://github.com/pilebones/backdoorBash
 - https://github.com/pilebones/etterfilterSamples
 
